@@ -8,5 +8,5 @@ main = hspec spec
 spec :: Spec
 spec = do
   describe "someFunction" $ do
-    it "should work fine" $ do
-      True `shouldBe` False
+    it "should work fine" $
+      pending
