@@ -1,4 +1,4 @@
-# s3
+# s3 [![Build Status](https://travis-ci.org/fujimura/s3.png?branch=master)](https://travis-ci.org/fujimura/s3)
 
 TODO: Write description here
 
